@@ -1,7 +1,7 @@
 package LessonFour;
 
 public class FourthLesson {
-    public class LessonFour {
+
         public static void main(String[] args) {
             System.out.println(getSqrt(258963));
         }
@@ -15,4 +15,3 @@ public class FourthLesson {
         }
     }
 
-}
